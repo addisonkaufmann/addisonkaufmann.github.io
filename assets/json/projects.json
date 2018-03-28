@@ -1,0 +1,4 @@
+[
+    {"name": "Ripple Effect", "src": "assets/RippleEffect.png", "style": {"background-color": "white"}},
+    {"name": "TakeCharge", "src": "assets/TakeCharge.png", "style": {"background-color": "#fffaf8"}}
+]
